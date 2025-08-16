@@ -1,0 +1,4 @@
+# Instructions for Data Collection
+
+Please go outside and record information about the cars you see. Write down the car colour, the date, the number of people in the car, the make and model. 
+

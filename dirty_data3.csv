@@ -1,0 +1,137 @@
+Car Colour,Date,Occupants,Make,Model
+rEd,2023-03-15,2,Ford,Focus
+Red,15/03/2023,three,Toyota,Corolla
+,"March 15, 2023",4,Volkswagen,Golf
+rd,2023/03/15,2,cyclist,
+Blue,2023-03-16,one,Honda,Civic
+blu,16/03/2023,1,Hyundai,Elantra
+BlUe,"March 16, 2023",,BMW,3 Series
+,2023-03-17,2,Motorbike,
+Green,17/03/2023,two,Peugeot,208
+grn,March 17 2023,2,Renault,Clio
+Red,2023-03-18,2,Ford,Focus
+Red,18/03/2023,2,Ford,Focus
+rEd,"March 18, 2023",three,Toyota,Corolla
+"March 19, 2023",4,Volkswagen,Golf
+rd,19/03/2023,2,cyclist,
+Blue,"March 19, 2023",one,Honda,Civic
+blu,2023-03-20,1,Hyundai,Elantra
+BlUe,20/03/2023,,BMW,3 Series
+"March 20, 2023",2,Motorbike,
+Green,2023-03-21,two,Peugeot,208
+yellow,2023-03-22,1,Ford,Fiesta
+ylw,22/03/2023,one,Volkswagen,Passat
+Yellow,"March 22, 2023",2,Hyundai,i30
+"March 23, 2023",three,Peugeot,308
+yel,23/03/2023,2,Renault,Megane
+YELLOW,"March 23, 2023",2,Skoda,Octavia
+red,2023-03-24,2,Ford,Focus
+rd,24/03/2023,2,cyclist,
+Red,"March 24, 2023",three,Toyota,Corolla
+"March 25, 2023",4,Volkswagen,Golf
+rEd,25/03/2023,2,cyclist,
+Blue,"March 25, 2023",one,Honda,Civic
+blu,2023-03-26,1,Hyundai,Elantra
+BlUe,"March 26, 2023",,BMW,3 Series
+"March 26, 2023",2,Motorbike,
+Green,2023-03-27,two,Peugeot,208
+grn,27/03/2023,2,Renault,Clio
+red,2023-03-28,2,Ford,Focus
+Red,28/03/2023,2,Ford,Focus
+rEd,"March 28, 2023",three,Toyota,Corolla
+"March 29, 2023",4,Volkswagen,Golf
+rd,29/03/2023,2,cyclist,
+Blue,"March 29, 2023",one,Honda,Civic
+blu,2023-03-30,1,Hyundai,Elantra
+BlUe,"March 30, 2023",,BMW,3 Series
+"March 30, 2023",2,Motorbike,
+Green,2023-03-31,two,Peugeot,208
+grn,31/03/2023,2,Renault,Clio
+red,2023-04-01,2,Ford,Focus
+Red,01/04/2023,2,Ford,Focus
+rEd,April 1 2023,three,Toyota,Corolla
+"April 2, 2023",4,Volkswagen,Golf
+rd,02/04/2023,2,cyclist,
+Blue,"April 2, 2023",one,Honda,Civic
+blu,2023-04-03,1,Hyundai,Elantra
+BlUe,"April 3, 2023",,BMW,3 Series
+"April 3, 2023",2,Motorbike,
+Green,2023-04-04,two,Peugeot,208
+grn,04/04/2023,2,Renault,Clio
+red,2023-04-05,2,Ford,Focus
+Red,05/04/2023,2,Ford,Focus
+rEd,April 5 2023,three,Toyota,Corolla
+"April 6, 2023",4,Volkswagen,Golf
+rd,06/04/2023,2,cyclist,
+Blue,"April 6, 2023",one,Honda,Civic
+blu,2023-04-07,1,Hyundai,Elantra
+BlUe,"April 7, 2023",,BMW,3 Series
+"April 7, 2023",2,Motorbike,
+Green,2023-04-08,two,Peugeot,208
+grn,08/04/2023,2,Renault,Clio
+red,2023-04-09,2,Ford,Focus
+Red,09/04/2023,2,Ford,Focus
+rEd,April 9 2023,three,Toyota,Corolla
+"April 10, 2023",4,Volkswagen,Golf
+rd,10/04/2023,2,cyclist,
+Blue,"April 10, 2023",one,Honda,Civic
+blu,2023-04-11,1,Hyundai,Elantra
+BlUe,"April 11, 2023",,BMW,3 Series
+"April 11, 2023",2,Motorbike,
+Green,2023-04-12,two,Peugeot,208
+grn,12/04/2023,2,Renault,Clio
+red,2023-04-13,2,Ford,Focus
+Red,13/04/2023,2,Ford,Focus
+rEd,April 13 2023,three,Toyota,Corolla
+"April 14, 2023",4,Volkswagen,Golf
+rd,14/04/2023,2,cyclist,
+Blue,"April 14, 2023",one,Honda,Civic
+blu,2023-04-15,1,Hyundai,Elantra
+BlUe,"April 15, 2023",,BMW,3 Series
+"April 15, 2023",2,Motorbike,
+Green,2023-04-16,two,Peugeot,208
+grn,16/04/2023,2,Renault,Clio
+red,2023-04-17,2,Ford,Focus
+Red,17/04/2023,2,Ford,Focus
+rEd,April 17 2023,three,Toyota,Corolla
+"April 18, 2023",4,Volkswagen,Golf
+rd,18/04/2023,2,cyclist,
+Blue,"April 18, 2023",one,Honda,Civic
+blu,2023-04-19,1,Hyundai,Elantra
+BlUe,"April 19, 2023",,BMW,3 Series
+"April 19, 2023",2,Motorbike,
+Green,2023-04-20,two,Peugeot,208
+grn,20/04/2023,2,Renault,Clio
+red,2023-04-21,2,Ford,Focus
+Red,21/04/2023,2,Ford,Focus
+rEd,April 21 2023,three,Toyota,Corolla
+"April 22, 2023",4,Volkswagen,Golf
+rd,22/04/2023,2,cyclist,
+Blue,"April 22, 2023",one,Honda,Civic
+blu,2023-04-23,1,Hyundai,Elantra
+BlUe,"April 23, 2023",,BMW,3 Series
+"April 23, 2023",2,Motorbike,
+Green,2023-04-24,two,Peugeot,208
+grn,24/04/2023,2,Renault,Clio
+red,2023-04-25,2,Ford,Focus
+Red,25/04/2023,2,Ford,Focus
+rEd,April 25 2023,three,Toyota,Corolla
+"April 26, 2023",4,Volkswagen,Golf
+rd,26/04/2023,2,cyclist,
+Blue,"April 26, 2023",one,Honda,Civic
+blu,2023-04-27,1,Hyundai,Elantra
+BlUe,"April 27, 2023",,BMW,3 Series
+"April 27, 2023",2,Motorbike,
+Green,2023-04-28,two,Peugeot,208
+grn,28/04/2023,2,Renault,Clio
+red,2023-04-29,2,Ford,Focus
+Red,29/04/2023,2,Ford,Focus
+rEd,April 29 2023,three,Toyota,Corolla
+"April 30, 2023",4,Volkswagen,Golf
+rd,30/04/2023,2,cyclist,
+Blue,"April 30, 2023",one,Honda,Civic
+blu,2023-05-01,1,Hyundai,Elantra
+BlUe,01/05/2023,,BMW,3 Series
+"May 1, 2023",2,Motorbike,
+Green,2023-05-02,two,Peugeot,208
+grn,02/05/2023,2,Renault,Clio
